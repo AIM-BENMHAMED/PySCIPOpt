@@ -1,4 +1,4 @@
-PySCIPOpt
+PySCIPOpt - A custom version for learning to branch using 
 =========
 
 This project provides an interface from Python to the [SCIP Optimization Suite](https://www.scipopt.org/). Starting from v8.0.3, SCIP uses the [Apache2.0](https://www.apache.org/licenses/LICENSE-2.0) license. If you plan to use an earlier version of SCIP, please review [SCIP's license restrictions](https://scipopt.org/index.php#license).
